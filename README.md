@@ -1,2 +1,1 @@
-my first readme
-has been updated
+update on  my first readme on how to set up github
